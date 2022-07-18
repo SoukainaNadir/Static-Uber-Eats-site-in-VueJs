@@ -73,7 +73,10 @@ export default {
         position: relative;
         margin : 0px;
         z-index: 1;
-        
+        &:hover{
+            color: #46b96c;
+            cursor: pointer;
+        }
         
     }
     
